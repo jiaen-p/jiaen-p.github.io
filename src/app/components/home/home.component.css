@@ -1,0 +1,12 @@
+.container{
+    box-sizing: border-box;
+    width: 100vw;
+    min-height: 98vh;
+    padding: 50px 15px;
+}
+
+.showcase-container{
+    border-radius: 19px;
+    border: 1px solid;
+    padding: 30px 15px;
+}

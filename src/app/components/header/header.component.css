@@ -1,0 +1,45 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: #DFF5FF;
+    min-height: 98vh;
+    width: 100vw;
+    border-bottom-right-radius: 12px;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 100px;
+    padding: 50px 0;
+}
+
+.profile{
+    width: 250px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+@media only screen and (min-width: 500px){
+    .profile{
+        width: 350px;
+    }
+}
+.header h1{
+    letter-spacing: 0.18em;
+    font-weight: bolder;
+    font-size: larger;
+    padding: 20px 5px;
+}
+.header p{
+    font-size: small;
+    padding: 4vh 35px;
+    font-weight: 400;
+    line-height: 23px;
+}
+.header h3{
+    font-size: larger;
+    padding: 6vh 0 ;
+}
+span{
+    font-size: xx-large;
+}
