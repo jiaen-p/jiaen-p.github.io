@@ -5,7 +5,7 @@
     text-align: center;
     background: #DFF5FF;
     min-height: 98vh;
-    width: 100vw;
+    width: 100%;
     border-bottom-right-radius: 12px;
     box-sizing: border-box;
 }
